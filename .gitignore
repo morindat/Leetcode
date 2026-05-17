@@ -1,0 +1,61 @@
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Compiled output
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+build/
+
+# Make
+*.make
+
+# Executables (no extension on Linux)
+a.out
+
+# Preprocessed files
+*.ii
+*.s
+
+# Dependency files
+*.d
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
