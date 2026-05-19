@@ -3,7 +3,7 @@
 using namespace std;
 
 // Problem 119
-// Problem 5 of May 
+// Problem 6 of May 
 // Most Frequent Subtree Sum: MEDIUM
 // Date: 15/05/26
 // Complexity: O(n)
@@ -11,7 +11,7 @@ using namespace std;
 // Finals and submissions plus a whole lot of excuses
 // Reality is, I owe myself over 20 problems
 // And today is when I officially start trying to pay me
-// 4/20 I owe
+// 6/20 I owe
 
 struct TreeNode {
     int val;
