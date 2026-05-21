@@ -1,6 +1,6 @@
 # include <queue>
 # include <algorithm>
-# include <unordered_map>
+# include <map>
 # include <vector>
 using namespace std;
 
@@ -31,7 +31,7 @@ public:
         //.. map of col : [row, val]
         //.. we will use this to keep the column sorted
         //.. why? coz that's what we need, lol
-        unordered_map<int, vector<pair<int, int>>> colMap;
+        map<int, vector<pair<int, int>>> colMap;
 
         // BFS
         // {node, row, col}
