@@ -2,9 +2,9 @@
 using namespace std;
 
 /**
- * Problem 143
- * Problem 30/45 of May 2026
- * Binary Search Tree to Greater Sum Tree: MEDIUM
+ * Problem 144
+ * Problem 31/45 of May 2026
+ * BST To Greater Sum Tree: MEDIUM
  * Date: 25/05/26
  * Time Complexity: O(n);
 */
