@@ -3,8 +3,8 @@
 using namespace std;
 
 /**
- * Problem 170
- * Problem 7/45 of June 2026
+ * Problem 171
+ * Problem 8/45 of June 2026
  * Combination: MEDIUM
  * Date: 3/06/26
  * Time Complexity: O(C(n, k) * k)
