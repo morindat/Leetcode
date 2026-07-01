@@ -19,13 +19,13 @@ public:
 
         for (int i = 0; i < n; i++) {
 
-            // 1️⃣ Resolve SECOND greater
+            // 1️⃣  Resolve SECOND greater
             while (!st2.empty() && nums[i] > nums[st2.top()]) {
                 ans[st2.top()] = nums[i];
                 st2.pop();
             }
 
-            // 2️⃣ Move elements from st1 to st2 (FIRST greater found)
+            // 2️⃣  Move elements from st1 to st2 (FIRST greater found)
             stack<int> temp;  // use stack to preserve correct order
             while (!st1.empty() && nums[i] > nums[st1.top()]) {
                 temp.push(st1.top());
@@ -37,7 +37,7 @@ public:
                 temp.pop();
             }
 
-            // 3️⃣ Current index waits for FIRST greater
+            // 3️⃣  Current index waits for FIRST greater
             st1.push(i);
         }
 

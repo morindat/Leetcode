@@ -2,8 +2,8 @@
 using namespace std;
 
 /**
- * Problem 192
- * Problem 29/45 of June 2026
+ * Problem 193
+ * Problem 30/45 of June 2026
  * Best Time To Buy And Sell Stocks: EASY
  * Date: 28/06/26
  * Time Complexity: O(n) 
