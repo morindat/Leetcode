@@ -1,7 +1,6 @@
 #include <vector>
 #include <algorithm>
 #include <queue>
-
 using namespace std;
 
 // Problem 45
