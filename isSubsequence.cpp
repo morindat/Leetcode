@@ -6,7 +6,7 @@ using namespace std;
 /*
  * Problem 196
  * Is Subsequence: EASY
- * Time: 2026-08-01
+ * Time: 2026-08-02 
  * Time Complexity: 0(n)  
  */ 
 
