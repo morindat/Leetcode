@@ -6,7 +6,7 @@ using namespace std;
 /*
  * Welcome Back Brother
  * First Problem after a long vacation
- * Problem 193
+ * Problem 194
  * Range Sum Query - Immutable: EASY
  * Time: 2026-08-01
  * Time Complexity: 0(1)
