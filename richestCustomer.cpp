@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
- * Problem 199
+ * Problem 200
  * Richest Customer Wealth: EASY
  * Time: 2026-08-04
  * Complexity: 0(n * m)
