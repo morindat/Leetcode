@@ -4,7 +4,7 @@
 using namespace std;
 
 /*
- * Problem 202
+ * Problem 203
  * Minimum Path Sum: MEDIUM
  * Time: 2026-08-07  
  * Complexity: 0(n)
