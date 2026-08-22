@@ -20,7 +20,7 @@ public:
         // sold: max profit after selling (must cooldown next day)
         // rest: max profit while not holding and can buy
 
-        int hold = -prices[0];  // bought on day 0
+        int hold = prices[0];  // bought on day 0
         int sold = 0;           // can't sell on day 0
         int rest = 0;           // resting on day 0
 
