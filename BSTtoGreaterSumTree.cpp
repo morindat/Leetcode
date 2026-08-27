@@ -1,6 +1,3 @@
-# include <iostream>
-using namespace std;
-
 /**
  * Problem 144
  * Problem 31/45 of May 2026
