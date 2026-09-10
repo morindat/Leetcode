@@ -57,7 +57,6 @@ public:
                 }
             }
         }
-        
         return mat;
     }
 };
