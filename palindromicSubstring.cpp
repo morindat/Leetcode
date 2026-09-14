@@ -7,7 +7,7 @@ using namespace std;
  * Problem 214
  * Palindrome Substrings: MEDIUM
  * Time: 09/08/2026
- * Complexity: O(n^2) 
+ * Complexity: O(n*m) 
  */ 
 
 class Solution {
